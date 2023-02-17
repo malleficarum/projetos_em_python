@@ -1,1 +1,2 @@
-# projetos_em_python
+# Projetos em Python
+### 💻 Cursos do Udemy, aulas da facu & Beecrowd!
